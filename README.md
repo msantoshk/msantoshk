@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @msantoshk
-- 👀 I’m interested in python, rest api, django, aws, reactjs, android and ios apps.
+- 👋 Hi, I’m Santosh.
+- 👀 I’m interested in python, rest api, django, aws, reactjs,vuejs, android and ios apps.
 - 🌱 I’m currently learning AI/ML and data science.
 - 💞️ I’m looking to collaborate on paid projects on python
 - 📫 How to reach me on website: https://okli.in/ facebook: https://www.facebook.com/profile.php?id=100010856562565
